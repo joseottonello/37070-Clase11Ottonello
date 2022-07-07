@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "price": "57.50",
+        "stock": 4,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2018/1_23/0/38/86/2512550.jpg",
+        "name": "U AUTHENTIC",
+        "gender": "Gender: Unisex",
+        "itemList": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "itemDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Classics"
+    },
+    {
+        "id": 2,
+        "price": "62.30",
+        "stock": 6,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2018/1_17/0/38/4/2491421.jpg",
+        "name": "U ERA",
+        "gender": "Gender: Unisex",
+        "itemList": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "itemDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Classics"
+    },
+    {
+        "id": 3,
+        "price": "65.00",
+        "stock": 13,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2021/10_2/0/108/78/7097953.jpg",
+        "name": "U OLD SKOOL",
+        "gender": "Gender: Unisex",
+        "itemList": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "itemDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Classics"
+    },
+    {
+        "id": 4,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2021/10_4/0/108/85/7099781.jpg",
+        "name": "SK8-LOW",
+        "price": 23000,
+        "gender": "Gender: Unisex",
+        "detailItem": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Sport"
+    },
+    {
+        "id": 5,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2022/6/23/7520418.jpg",
+        "name": "SK8-MID",
+        "price": 25000,
+        "gender": "Gender: Unisex",
+        "detailItem": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Sport"
+    },
+    {
+        "id": 6,
+        "img": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2022/5/16/7438798.jpg",
+        "name": "SK8-HI",
+        "price": 27000,
+        "gender": "Gender: Unisex",
+        "detailItem": "Lorem ipsum dolor sit amet consectetur adipisicing elit, totam tenetur cumque nam voluptatibus voluptatum minima",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam tenetur cumque nam voluptatibus voluptatum. Minima voluptate soluta dolores alias sunt consequatur sit rerum praesentium veniam? Vero similique ipsa non voluptas",
+        "category": "Sport"
+    }
+]
